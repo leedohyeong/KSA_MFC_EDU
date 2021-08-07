@@ -1,7 +1,8 @@
 ## KSA_MFC 실습
 
-<img src= "https://github.com/leedohyeong/KSA_MFC_EDU/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7(469).png">
 영상 처리 실습 예시 
+<img src= "https://github.com/leedohyeong/KSA_MFC_EDU/blob/main/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7(469).png">
+
 
 ### 기능
 #### - OnOpenDocument : RAW 파일을 열기 위해 파일을 불러옴
